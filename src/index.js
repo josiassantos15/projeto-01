@@ -2,4 +2,4 @@ const user = {
   name: 'Josias'
 }
 
-console.log(user.address?.street)
+// console.log(user.address?.street)
